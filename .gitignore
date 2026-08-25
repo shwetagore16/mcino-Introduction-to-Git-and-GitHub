@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+bug-fix-revert
+github-branches
+forked-repo
+merge_branches
